@@ -1,5 +1,5 @@
 
-# GradeBook
+# CppGradeBook
 ## Description
 
 GradeBook is a C++ application developed as part of a programming assignment. It manages student grades, allowing users to 
