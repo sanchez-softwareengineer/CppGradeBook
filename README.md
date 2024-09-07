@@ -1,4 +1,3 @@
-# CppGradeBook
 
 # GradeBook
 ## Description
